@@ -1,4 +1,4 @@
-FROM rguna1204/edm_07152020
+FROM rguna1204/edmtestrepo
 
 MAINTAINER gunasekaran.rajamani@cudirect.com 
 
